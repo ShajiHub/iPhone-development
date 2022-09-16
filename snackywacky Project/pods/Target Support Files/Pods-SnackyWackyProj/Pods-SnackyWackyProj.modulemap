@@ -1,0 +1,6 @@
+framework module Pods_SnackyWackyProj {
+  umbrella header "Pods-SnackyWackyProj-umbrella.h"
+
+  export *
+  module * { export * }
+}
